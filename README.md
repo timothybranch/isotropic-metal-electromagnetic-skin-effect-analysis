@@ -66,6 +66,7 @@ See the `docs/` directory for detailed documentation:
 
 ## Project Structure
 
+```
 ├── notebooks/              # Analysis notebook
 ├── src/                    # Core library modules
 ├── data/                   # Sample datasets
@@ -74,6 +75,7 @@ See the `docs/` directory for detailed documentation:
 ├── tests/                  # Unit tests
 ├── docs/                   # Documentation
 └── figures/                # Generated plots
+```
 
 ## Requirements
 
