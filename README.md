@@ -6,7 +6,7 @@ A Python toolkit that calculates the frequency-dependent surface impedance of a 
 
 This project showcases a tool I put together as part of my work towards my experimental physics PhD, and I am uploading it as a project as part of my professional portfolio.
 
-NOTE: I am very busy with my dissertation writing, but I wanted to showcase some of my work. It works well on my local machine and I worked hard to polish it well, but there may still be some ways to improve it. I am open to suggestions!
+NOTE: I am very busy with my dissertation writing, but I wanted to showcase some of my work. It works well on my local machine, but I had to make some modificitations for upload: I can't upload some of the functions yet, as I am discussing with my collaborator how we wish to create and distribute a broader package). So at the moment it doesn't quite work, but I included some example figures and data to show what it produces. When I get a chance, I'll go and fix the remaining issues from the adjusted code. As well, I'm sure there are ways to improve it, so I am open to suggestions!
 
 To interpret the experimental results I collected for my PhD dissertation, I needed to be able to calculate the surface impedance spectra for materials using Fermi surface meshes (for an introduction to the Fermi surface in metals and it's properties, see Chapter 2 of the textbook by Ashcroft and Mermin). I developed comprehensive tools to generate these meshes and calculate surface impedance spectra from them, but needed an analytic response against which to verify them and characterize their numerical errors. That is why I created this project.
 
