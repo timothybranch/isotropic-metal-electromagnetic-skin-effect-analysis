@@ -1,0 +1,25 @@
+## Figure size: Golden ratio, wide
+figure.figsize : 6.75, 4.1718170581 #Golden ratio
+
+## Font size
+font.family : sans-serif
+
+## Set font sizes
+axes.titlesize : 12
+axes.labelsize : 12
+xtick.labelsize : 10
+ytick.labelsize : 10
+legend.fontsize : 10
+lines.linewidth : 1
+lines.markersize : 6
+
+## Ticks should be inside the box
+xtick.direction : in
+ytick.direction : in
+
+image.cmap : viridis
+figure.dpi : 300
+
+## By default, don't show the legend frame
+legend.frameon : False
+legend.edgecolor : none

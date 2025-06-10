@@ -1,0 +1,25 @@
+{
+    "Model name": "Sodium_Free_Electron",
+    "Figure filename base": "Sodium_Free_Electron_Analytic_2.000e+00nOhmcm_ASE",
+    "Parameters": {
+        "Effective mass m*/m_0 (1)": 1.0,
+        "Fermi energy E_F (eV)": 3.2388048372293885,
+        "Fermi wavevector k_F (1/Angstrom)": 0.922,
+        "Fermi velocity (m/s)": 1067377.605040009,
+        "Plasma frequency (Hz)": 9178620471548854.0,
+        "Resistivity (Ohm m)": 2.0000000000000002e-11,
+        "Momentum-relaxing scattering rate gamma_MR (Hz)": 14918788275.127377,
+        "Momentum-relaxing mean free path l_MR (m)": 7.154586454045616e-05
+    },
+    "Frequency boundaries": {
+        "CSE to ASE (delta_cl = l_MR)": 989.6945684777858,
+        "CSE to ASE (R_s equal)": 52095.43396684048,
+        "Relaxation": 2374398898.927933,
+        "Anomalous reflection": 5201096692468.409
+    },
+    "Frequency min and max (Hz)": [
+        1000.0,
+        10000000000000.0
+    ],
+    "Number of frequencies": 100
+}

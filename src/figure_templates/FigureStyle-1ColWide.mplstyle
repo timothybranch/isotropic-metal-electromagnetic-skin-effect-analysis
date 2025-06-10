@@ -1,0 +1,9 @@
+   figure.figsize : 3.375, 2.08590852905 #Golden ratio
+   axes.titlesize : 12
+   axes.labelsize : 12
+   lines.linewidth : 1
+   lines.markersize : 10
+   xtick.labelsize : 10
+   ytick.labelsize : 10
+   legend.fontsize : 10
+   font.family : serif
