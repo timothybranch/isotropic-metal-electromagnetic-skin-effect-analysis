@@ -4,6 +4,8 @@ A Python toolkit that calculates the frequency-dependent surface impedance of a 
 
 ## Overview
 
+**Update (Sept 22, 2025)**: I've been submitting job applications lately, so if you are visiting, welcome! Please be aware, this project is a low priority right now as I am busy writing research articles on my PhD projects. I hope it currently showcases some of my good programming habits. At some point soon I'll spend some time ensuring that it is easy to download, install, and run.
+
 This project showcases a tool I put together as part of my work towards my experimental physics PhD, and I am uploading it as a project as part of my professional portfolio. This represents a small piece of the code base I developed for my research.
 
 NOTE: I am very busy with my dissertation writing, but I wanted to showcase some of my work. It runs well on my local machine, but I had to make some modificitations for upload: I can't upload some of the calculation functions yet, as I am discussing with my collaborator how we wish to create and distribute a broader package. So at the moment it doesn't quite work, but I included some example figures and data to show what it produces. When I get a chance, I'll fix the remaining issues from the adjusted code, and continue updating the documentation to make it clearer for a broader audience. As well, I'm sure there are ways to improve it, so I am open to suggestions!
@@ -105,3 +107,4 @@ See the `docs/` directory for detailed documentation:
 ## License
 
 [License - to be filled]
+
